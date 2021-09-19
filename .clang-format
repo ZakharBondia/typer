@@ -1,0 +1,24 @@
+AccessModifierOffset: -4
+AlignTrailingComments: true
+AllowAllParametersOfDeclarationOnNextLine: false
+AlwaysBreakTemplateDeclarations: true
+BraceWrapping: 
+	AfterNamespace:	true
+BreakBeforeBinaryOperators: false
+BreakBeforeBraces: Allman
+BreakConstructorInitializersBeforeComma: true
+ColumnLimit: 80
+IndentWidth: 4
+Language: Cpp
+NamespaceIndentation: Inner
+SpaceBeforeParens: ControlStatements
+SpaceInEmptyParentheses: false
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+SpacesInParentheses: false
+SpaceBeforeAssignmentOperators: true
+Standard: Cpp11
+UseTab: Never
+PointerAlignment: Left
+SortIncludes: false
