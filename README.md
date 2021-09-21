@@ -1,5 +1,5 @@
 # Typer
-An another type reflection library.
+Another type reflection library.
 WIP
 
 ## Goals
